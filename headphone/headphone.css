@@ -1,0 +1,47 @@
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    gap: 20px;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+.i1:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+   
+}
+.i1 {
+    position: relative;
+    overflow: hidden;
+}
+
+.i1 img {
+    width: 100%;
+    transition: opacity 0.5s ease;
+}
+
+.i1 .hover-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.i1:hover .hover-image {
+    opacity: 1;
+}
+
+.i1:hover img:first-child {
+    opacity: 0;
+}
+input:focus{
+    outline: none;
+    border: none;
+}
