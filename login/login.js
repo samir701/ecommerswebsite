@@ -14,7 +14,7 @@ function pass_check(event) {
 
     if (enteredUsername === user_id && enteredPassword === password) {
         // Redirect to home page or dashboard
-        window.location.replace("/dist/index.html");
+        window.location.replace("../dist/index.html");
     } else {
         alert("Wrong password or username");
         // Clear password field
