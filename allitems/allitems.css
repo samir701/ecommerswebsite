@@ -79,3 +79,6 @@ input:focus{
     outline: none;
     border: none;
 }
+.sl:hover{
+    transition: 0.5s;
+}
