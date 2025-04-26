@@ -21,7 +21,5 @@ function pass_check(event) {
         passwordInput.value = '';
     }
 }
-
-// Add event listener to the form
 document.querySelector('form').addEventListener('submit', pass_check);
-
+// Add event listener to the form

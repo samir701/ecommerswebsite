@@ -172,3 +172,13 @@ body {
     color: #333;
     text-decoration: underline;
 }
+.show-pass{
+    position: absolute;
+    right: 10px;
+    top: 25%;
+}
+.show-pass:hover{
+    cursor: pointer;
+    transition: 0.5s;
+    transform: scale(1.2);
+}
