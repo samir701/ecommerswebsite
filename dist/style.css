@@ -72,3 +72,13 @@ input:focus{
 .rad{
     border-radius: 5px;
 }
+.ico{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: center;
+}
+.c{
+    color: snow;
+    background-color: aliceblue;
+}
