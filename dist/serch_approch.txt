@@ -1,0 +1,15 @@
+packeg
+1).json----->directory------>(mostt revel product name,imge,price)
+|
+|
+|
+2)html file------>empty div----->styling------->dynamic section that will show the serch itme ans this items will bee sent by js
+
+3)js---->.josn---->data fetch---->input(search)== compare---->result----->js---->card wise show
+
+4)result----->{name:"samsung",model:"xyz",img:'.jpg",description:"gsdhyf"}
+|
+|
+|
+|
+5)html and css------>html(path) , css(design).

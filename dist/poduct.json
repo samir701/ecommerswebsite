@@ -1,0 +1,20 @@
+[
+    {
+        "name":"samsung",
+        "img":"https://images.samsung.com/is/image/samsung/p6pim/latin_en/galaxy-s23-ultra",
+        "price":"$999.99",
+        "description":"The Galaxy S23 Ultra is a premium smartphone with a stunning display, powerful performance, and an advanced camera system. It features a 6.8-inch Dynamic AMOLED display, Snapdragon 8 Gen 2 processor, and a versatile quad-camera setup."
+    },
+    {
+        "name":"iphone",
+        "img":"https://www.apple.com/v/iphone/home/ai/images/heroes/iphone-14-pro/hero_static__d1v8j0x2g6i6_large.jpg",
+        "price":"$999.99",
+        "description":"The iPhone 14 Pro is a high-end smartphone with a sleek design, powerful A16 Bionic chip, and an impressive camera system. It features a 6.1-inch Super Retina XDR display, ProMotion technology, and advanced photography capabilities."
+    },
+    {
+        "name":"oneplus",
+        "img":"https://www.oneplus.com/global/oneplus-11/images/hero/hero_1.jpg",
+        "price":"$699.99",
+        "description":"The OnePlus 11 is a flagship smartphone that offers a premium experience at a competitive price. It features a 6.7-inch Fluid AMOLED display, Snapdragon 8 Gen 2 processor, and a versatile triple-camera system."
+    }
+]
